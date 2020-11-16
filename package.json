@@ -1,0 +1,25 @@
+{
+  "name": "alexajs",
+  "version": "0.0.1",
+  "description": "Alexa JS framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevindra/alexajs.git"
+  },
+  "keywords": [
+    "alexa",
+    "alexa",
+    "skills",
+    "framework"
+  ],
+  "author": "Kevindra Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevindra/alexajs/issues"
+  },
+  "homepage": "https://github.com/kevindra/alexajs#readme"
+}

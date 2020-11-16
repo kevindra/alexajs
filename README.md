@@ -1,2 +1,3 @@
 # alexajs
-Alexa JS
+
+This is a shell repo. Instructions https://chitchat.js.org

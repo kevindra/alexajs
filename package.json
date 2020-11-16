@@ -1,5 +1,5 @@
 {
-  "name": "alexajs",
+  "name": "@alexajs/alexajs",
   "version": "0.0.1",
   "description": "Alexa JS framework.",
   "main": "index.js",
